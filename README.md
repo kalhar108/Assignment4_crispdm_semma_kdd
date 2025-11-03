@@ -8,18 +8,19 @@ Three foundational data science methodologies demonstrated through vehicle analy
 
 ## 📚 Content & Resources
 
-### 1️⃣ CRISP-DM: Vehicle Predictive Maintenance
-📄 [Medium Article](https://medium.com/@yourusername/crisp-dm-vehicle-maintenance) | 🎥 [YouTube Tutorial](https://youtube.com/watch?v=placeholder_crisp) | 📓 `Crisp_DM.ipynb`
+### 1️⃣ CRISP-DM: Vehicle Predictive Maintenance(Youtube: https://youtu.be/PSk88EY20Kk)
+📄 [Medium Article](https://medium.com/@kalharpatel2002/how-crisp-dm-methodology-turned-vehicle-breakdowns-into-predictable-events-036fc41a6396
+) | 📓 `Crisp_DM.ipynb`
 
 **Results:** 87% Recall | $350K Savings | 1,400% ROI
 
-### 2️⃣ SEMMA: Vehicle Fuel Efficiency 
-📄 [Medium Article](https://medium.com/@yourusername/semma-fuel-efficiency) | 🎥 [YouTube Tutorial](https://youtube.com/watch?v=placeholder_semma) | 📓 `Semma.ipynb`
+### 2️⃣ SEMMA: Vehicle Fuel Efficiency (Youtube: https://youtu.be/JyGIFbU0CYA)
+📄 [Medium Article](https://medium.com/@kalharpatel2002/why-sass-streamlined-approach-might-be-exactly-what-your-regression-project-needs-83d516421d77) | 📓 `Semma.ipynb`
 
 **Results:** 92% R² Score | $218K Savings | 535% ROI
 
-### 3️⃣ KDD: Engine Health Monitoring
-📄 [Medium Article](https://medium.com/@yourusername/kdd-engine-monitoring) | 🎥 [YouTube Tutorial](https://youtube.com/watch?v=placeholder_kdd) | 📓 `KDD.ipynb`
+### 3️⃣ KDD: Engine Health Monitoring (Youtube: https://youtu.be/5ExQ29QYvIw)
+📄 [Medium Article](https://medium.com/@kalharpatel2002/kdd-the-9-phase-data-science-framework-that-saved-1m-in-engine-failures-277e2f9a6819) | 🎥 [YouTube Tutorial](https://youtube.com/watch?v=placeholder_kdd) | 📓 `KDD.ipynb`
 
 **Results:** 97% Critical Recall | $1.1M Savings | 852% ROI
 
@@ -97,10 +98,3 @@ Pull requests welcome! Feel free to open issues for questions or suggestions.
 MIT License - See LICENSE file for details
 
 ---
-
-## ✨ Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Medium: [@yourusername](https://medium.com/@yourusername)
